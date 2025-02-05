@@ -1,1 +1,1 @@
-# Learn Python slow but steadily with Simple projects
+# Learn Python slowly but steadily with Simple projects
